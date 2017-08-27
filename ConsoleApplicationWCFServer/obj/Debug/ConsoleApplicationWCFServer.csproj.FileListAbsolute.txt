@@ -1,0 +1,9 @@
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationWCFServer\bin\Debug\ConsoleApplicationWCFServer.exe.config
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationWCFServer\bin\Debug\ConsoleApplicationWCFServer.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationWCFServer\bin\Debug\ConsoleApplicationWCFServer.pdb
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationWCFServer\obj\Debug\ConsoleApplicationWCFServer.csprojResolveAssemblyReference.cache
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationWCFServer\obj\Debug\ConsoleApplicationWCFServer.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationWCFServer\obj\Debug\ConsoleApplicationWCFServer.pdb
+D:\MyProj\ProjectFix\ConsoleApplicationWCFServer\bin\Debug\ConsoleApplicationWCFServer.exe.config
+D:\MyProj\ProjectFix\ConsoleApplicationWCFServer\obj\Debug\ConsoleApplicationWCFServer.exe
+D:\MyProj\ProjectFix\ConsoleApplicationWCFServer\obj\Debug\ConsoleApplicationWCFServer.pdb

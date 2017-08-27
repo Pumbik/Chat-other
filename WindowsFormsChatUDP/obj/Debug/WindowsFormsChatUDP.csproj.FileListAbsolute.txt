@@ -1,0 +1,18 @@
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\WindowsFormsChatUDP\bin\Debug\WindowsFormsChatUDP.exe.config
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\WindowsFormsChatUDP\bin\Debug\WindowsFormsChatUDP.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\WindowsFormsChatUDP\bin\Debug\WindowsFormsChatUDP.pdb
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.csprojResolveAssemblyReference.cache
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.Form1.resources
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.Properties.Resources.resources
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.csproj.GenerateResource.Cache
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.pdb
+D:\MyProj\ProjectFix\WindowsFormsChatUDP\bin\Debug\WindowsFormsChatUDP.exe.config
+D:\MyProj\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.exe
+D:\MyProj\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.pdb
+D:\MyProj\ProjectFix\WindowsFormsChatUDP\bin\Debug\WindowsFormsChatUDP.exe
+D:\MyProj\ProjectFix\WindowsFormsChatUDP\bin\Debug\WindowsFormsChatUDP.pdb
+D:\MyProj\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.csprojResolveAssemblyReference.cache
+D:\MyProj\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.Form1.resources
+D:\MyProj\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.Properties.Resources.resources
+D:\MyProj\ProjectFix\WindowsFormsChatUDP\obj\Debug\WindowsFormsChatUDP.csproj.GenerateResource.Cache

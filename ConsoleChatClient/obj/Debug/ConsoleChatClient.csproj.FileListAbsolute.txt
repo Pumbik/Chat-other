@@ -1,0 +1,10 @@
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleChatClient\bin\Debug\ConsoleChatClient.exe.config
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleChatClient\bin\Debug\ConsoleChatClient.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleChatClient\bin\Debug\ConsoleChatClient.pdb
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleChatClient\obj\Debug\ConsoleChatClient.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleChatClient\obj\Debug\ConsoleChatClient.pdb
+D:\MyProj\ProjectFix\ConsoleChatClient\bin\Debug\ConsoleChatClient.exe.config
+D:\MyProj\ProjectFix\ConsoleChatClient\obj\Debug\ConsoleChatClient.exe
+D:\MyProj\ProjectFix\ConsoleChatClient\obj\Debug\ConsoleChatClient.pdb
+D:\MyProj\ProjectFix\ConsoleChatClient\bin\Debug\ConsoleChatClient.exe
+D:\MyProj\ProjectFix\ConsoleChatClient\bin\Debug\ConsoleChatClient.pdb

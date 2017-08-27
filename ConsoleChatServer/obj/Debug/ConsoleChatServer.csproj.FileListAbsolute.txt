@@ -1,0 +1,11 @@
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleChatServer\bin\Debug\ConsoleChatServer.exe.config
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleChatServer\bin\Debug\ConsoleChatServer.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleChatServer\bin\Debug\ConsoleChatServer.pdb
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleChatServer\obj\Debug\ConsoleChatServer.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleChatServer\obj\Debug\ConsoleChatServer.pdb
+D:\MyProj\ProjectFix\ConsoleChatServer\bin\Debug\ConsoleChatServer.exe.config
+D:\MyProj\ProjectFix\ConsoleChatServer\obj\Debug\ConsoleChatServer.exe
+D:\MyProj\ProjectFix\ConsoleChatServer\obj\Debug\ConsoleChatServer.pdb
+D:\MyProj\ProjectFix\ConsoleChatServer\bin\Debug\ConsoleChatServer.exe
+D:\MyProj\ProjectFix\ConsoleChatServer\bin\Debug\ConsoleChatServer.pdb
+D:\MyProj\ProjectFix\ConsoleChatServer\obj\Debug\ConsoleChatServer.csprojResolveAssemblyReference.cache

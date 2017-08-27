@@ -1,0 +1,11 @@
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpClient\bin\Debug\ConsoleApplicationTcpClient.exe.config
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpClient\bin\Debug\ConsoleApplicationTcpClient.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpClient\bin\Debug\ConsoleApplicationTcpClient.pdb
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpClient\obj\Debug\ConsoleApplicationTcpClient.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpClient\obj\Debug\ConsoleApplicationTcpClient.pdb
+D:\MyProj\ProjectFix\ConsoleApplicationTcpClient\bin\Debug\ConsoleApplicationTcpClient.exe.config
+D:\MyProj\ProjectFix\ConsoleApplicationTcpClient\obj\Debug\ConsoleApplicationTcpClient.exe
+D:\MyProj\ProjectFix\ConsoleApplicationTcpClient\obj\Debug\ConsoleApplicationTcpClient.pdb
+D:\ToGit\ProjectFix\ConsoleApplicationTcpClient\bin\Debug\ConsoleApplicationTcpClient.exe.config
+D:\ToGit\ProjectFix\ConsoleApplicationTcpClient\obj\Debug\ConsoleApplicationTcpClient.exe
+D:\ToGit\ProjectFix\ConsoleApplicationTcpClient\obj\Debug\ConsoleApplicationTcpClient.pdb

@@ -1,0 +1,3 @@
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\TcpClient\bin\Debug\TcpClient.exe.config
+D:\MyProj\ProjectFix\TcpClient\bin\Debug\TcpClient.exe.config
+D:\ToGit\ProjectFix\TcpClient\bin\Debug\TcpClient.exe.config

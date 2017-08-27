@@ -1,0 +1,3 @@
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationWCFClient\bin\Debug\ConsoleApplicationWCFClient.exe.config
+D:\MyProj\ProjectFix\ConsoleApplicationWCFClient\bin\Debug\ConsoleApplicationWCFClient.exe.config
+D:\ToGit\ProjectFix\ConsoleApplicationWCFClient\bin\Debug\ConsoleApplicationWCFClient.exe.config

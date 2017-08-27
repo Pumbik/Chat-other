@@ -1,0 +1,9 @@
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpServer\bin\Debug\ConsoleApplicationTcpServer.exe.config
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpServer\bin\Debug\ConsoleApplicationTcpServer.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpServer\bin\Debug\ConsoleApplicationTcpServer.pdb
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpServer\obj\Debug\ConsoleApplicationTcpServer.csprojResolveAssemblyReference.cache
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpServer\obj\Debug\ConsoleApplicationTcpServer.exe
+C:\Users\mmver\Downloads\Програмирование C#\Сокет С#\ProjectFix\ConsoleApplicationTcpServer\obj\Debug\ConsoleApplicationTcpServer.pdb
+D:\MyProj\ProjectFix\ConsoleApplicationTcpServer\bin\Debug\ConsoleApplicationTcpServer.exe.config
+D:\MyProj\ProjectFix\ConsoleApplicationTcpServer\obj\Debug\ConsoleApplicationTcpServer.exe
+D:\MyProj\ProjectFix\ConsoleApplicationTcpServer\obj\Debug\ConsoleApplicationTcpServer.pdb
